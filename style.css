@@ -1,0 +1,54 @@
+body{
+    background-image: url(./image10.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+}
+body p{
+    color:white;
+}
+footer{
+    color: white;
+    text-align: center;
+    color:yellow;
+}
+h1{
+   color: blueviolet;
+   text-align: center;
+
+}
+h2{
+    color: darkorange;
+    text-align: center;
+}
+img{
+    width: 3%;
+}
+.game img{
+    width: 25%;
+    margin-left: 15rem;
+}
+.myphoto img{
+    width: 25%;
+    margin-left: 60rem;
+}
+
+.quotes{
+    color: chartreuse;
+    margin-left: 13rem;
+}
+.about {
+    color: red;
+}
+.about ul li{
+    list-style: none;
+    padding: 25px;
+    margin-left: 6rem;
+}
+.about ul{
+    display: inline-flex;
+}
+.cal img{
+    width: 25%;
+    margin-left: 30rem;
+}
